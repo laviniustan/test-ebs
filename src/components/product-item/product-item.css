@@ -1,0 +1,25 @@
+.table__display__element{
+    padding: 7rem;
+    
+
+    text-align: center;
+
+}
+.table__display__element td:not(:last-child){
+    padding-top: 0.8rem;
+
+}
+.input__button{
+    padding: .5rem;
+    cursor: pointer;
+    background-color:#383d44;
+    border:none;
+    border-radius: 2rem;
+    outline-style: none;
+    
+}
+.input__button:active{
+    padding: .2rem;
+    outline-style: none;
+    
+}

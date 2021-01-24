@@ -1,0 +1,9 @@
+.cart__item{
+  padding: 2px;
+}
+.cart__item__tr{
+    text-align: center;
+}
+button{
+  cursor: pointer;
+}

@@ -1,0 +1,27 @@
+.quantity>*{
+    margin:0 20px 0
+}
+.quantity span{
+    cursor: pointer;
+    padding: .2rem;
+    background: inherit;
+    font-size: 2rem;
+    user-select: none;
+    
+}
+.table__cart__component{
+    margin-top: 2rem;
+}
+.quantity span:active{
+  padding-top: 9px;
+
+}
+.close__button{
+    cursor: pointer;
+    padding: .2rem;
+    font-size: 1rem;  
+    background: inherit;
+}
+.close__button:active{
+    padding-top: 9px;
+}

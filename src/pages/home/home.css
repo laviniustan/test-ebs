@@ -1,0 +1,17 @@
+.component__home__left{
+    min-height: 55rem;
+    width: 10rem;
+    /* border: black solid 1px; */
+    margin-top: -6.5rem;
+    border-radius: 1rem;
+    display: grid;
+    align-items: center;
+    margin-left: 2rem;
+    justify-content: center;
+    font-size: larger;  
+    font-weight: 700;  
+    background-color: #31353E;
+}
+.component__home__left>*{
+    background-color: inherit;
+}

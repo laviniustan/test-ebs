@@ -1,0 +1,28 @@
+.table__cart__component{
+    width: 100%;
+    height: 100%;
+    padding: 4rem;
+ 
+    background-color: #31353E;
+    border-radius: 2rem;
+    text-align: center;
+    /* overflow-y: hidden; */
+   
+}
+.table__cart__component th{
+    margin-left: 0;
+    text-align: justify;
+    padding-bottom: 2rem;
+    /* margin-top: 2rem; */
+    background-color: #666d7e;
+    border-top-right-radius: 2rem;
+    border-top-left-radius: 2rem;
+    text-align: center;
+}
+
+.table__cart__component>*{
+
+    background-color: #31353E;
+    padding-top: 1rem;
+    
+}
